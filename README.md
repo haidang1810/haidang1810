@@ -121,12 +121,12 @@ const haiDang = {
 
 <div align="center">
 
-<!-- Stats Card + Streak Side by Side -->
+<!-- Stats Card + Top Languages Side by Side -->
 <a href="https://github.com/haidang1810">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haidang1810&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=38bdae&text_color=c9d1d9&ring_color=70a5fd" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haidang1810&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/haidang1810">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidang1810&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haidang1810&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
 
 <!-- Streak Stats -->
@@ -160,10 +160,10 @@ const haiDang = {
 
 <!-- Replace these with your actual repo names -->
 <a href="https://github.com/haidang1810/your-ai-agent-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haidang1810&repo=your-ai-agent-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=38bdae&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=haidang1810&repo=your-ai-agent-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=38bdae&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/haidang1810/your-fullstack-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haidang1810&repo=your-fullstack-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=38bdae&text_color=c9d1d9" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=haidang1810&repo=your-fullstack-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=38bdae&text_color=c9d1d9" />
 </a>
 
 </div>
