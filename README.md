@@ -140,7 +140,7 @@ const haiDang = {
 <!-- ========== TROPHY ========== -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haidang1810&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=haidang1810&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <!-- ========== ACTIVITY GRAPH ========== -->
@@ -153,26 +153,14 @@ const haiDang = {
 
 </div>
 
-<!-- ========== PINNED PROJECTS ========== -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pin" width="28" /> Featured Projects
-
-<!-- Pin your best repos directly on GitHub: Profile → "Customize your pins" → Select 6 repos -->
-<!-- GitHub sẽ tự hiển thị pinned repos bên dưới README -->
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [AI Agent Project](https://github.com/haidang1810/your-ai-agent-project) | Intelligent chatbot with multi-agent orchestration | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) |
-| [Full-Stack App](https://github.com/haidang1810/your-fullstack-project) | Production-ready web application | ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-
 <!-- ========== CONNECT ========== -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Email" width="28" /> Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haidang1810)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/haidang1810)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danghuynh.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/haidang1810)
 
