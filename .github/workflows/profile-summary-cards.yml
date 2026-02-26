@@ -1,0 +1,29 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch: # Cho phép chạy thủ công
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fez6/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: haidang1810
+          THEME: tokyonight
+
+      - name: Commit & Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile-summary-card-output/
+          git diff --staged --quiet || git commit -m "chore: update profile summary cards" && git push
